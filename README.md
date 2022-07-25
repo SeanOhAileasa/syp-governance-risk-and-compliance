@@ -22,9 +22,25 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 - [Security Controls](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/security-controls/syp-security-controls.ipynb#a) <br/>
 </details>
 
-##### ``Security Controls``
+##### ``Regulations and Standards and Frameworks``
 
-##### ``Regulations, Standards, and Frameworks``
+<details close>
+    <summary>Security Regulations and Standards</summary>
+
+- [Security Regulations and Standards](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/regulations-and-standards-and-frameworks/syp-security-regulations-and-standards.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Security Frameworks</summary>
+
+- [Security Frameworks](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/regulations-and-standards-and-frameworks/syp-security-frameworks.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Secure Configurations</summary>
+
+- [Secure Configurations](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/regulations-and-standards-and-frameworks/syp-secure-configurations.ipynb#a) <br/>
+</details>
 
 ##### ``Organizational Security Policies``
 
