@@ -16,6 +16,14 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Security Controls``
 
+<details close>
+    <summary>Security Controls</summary>
+
+- [Security Controls](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/security-controls/syp-security-controls.ipynb#a) <br/>
+</details>
+
+##### ``Security Controls``
+
 ##### ``Regulations, Standards, and Frameworks``
 
 ##### ``Organizational Security Policies``
