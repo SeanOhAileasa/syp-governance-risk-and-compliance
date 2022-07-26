@@ -76,6 +76,24 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Risk Management``
 
+<details close>
+    <summary>Risk Management Types</summary>
+
+- [Risk Management Types](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/risk-management/syp-risk-management-types.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Risk Analysis</summary>
+
+- [Risk Analysis](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/risk-management/syp-risk-analysis.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Business Impact Analysis</summary>
+
+- [Business Impact Analysis](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/risk-management/syp-business-impact-analysis.ipynb#a) <br/>
+</details>
+
 ##### ``Data Privacy``
 
 ## Credits
