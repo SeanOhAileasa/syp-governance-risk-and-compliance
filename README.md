@@ -44,6 +44,36 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Organizational Security Policies``
 
+<details close>
+    <summary>Personnel Security</summary>
+
+- [Personnel Security](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/organizational-security-policies/syp-personnel-security.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Third-party Risk Management</summary>
+
+- [Third-party Risk Management](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/organizational-security-policies/syp-third-party-risk-management.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Managing Data</summary>
+
+- [Managing Data](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/organizational-security-policies/syp-managing-data.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Credential Policies</summary>
+
+- [Credential Policies](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/organizational-security-policies/syp-credential-policies.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Organizational Policies</summary>
+
+- [Organizational Policies](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/organizational-security-policies/syp-organizational-policies.ipynb#a) <br/>
+</details>
+
 ##### ``Risk Management``
 
 ##### ``Data Privacy``
