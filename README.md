@@ -96,6 +96,30 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Data Privacy``
 
+<details close>
+    <summary>Privacy and Data Breaches</summary>
+
+- [Privacy and Data Breaches](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/data-privacy/syp-privacy-and-data-breaches.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Data Classifications</summary>
+
+- [Data Classifications](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/data-privacy/syp-data-roles-and-responsibilities.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Enhancing Privacy</summary>
+
+- [Enhancing Privacy](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/data-privacy/syp-enhancing-privacy.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Data Roles and Responsibilities</summary>
+
+- [Data Roles and Responsibilities](https://nbviewer.org/github/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/rc/data-privacy/syp-data-roles-and-responsibilities.ipynb#a) <br/>
+</details>
+
 ## Credits
 
 J. "Professor" Messer, "CompTIA Security+ (SY0-601) Course Notes," [professormesser.com](https://web.archive.org/web/20220521181010/https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/), September 2021.
